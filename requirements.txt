@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tqdm
+tensorflow[and-cuda]
+tensorflow_datasets
